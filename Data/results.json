@@ -1,0 +1,478 @@
+[
+  {
+    "timestamp": "2025-12-03T22:38:21.716428",
+    "candidate_name": "Akhil resume.pdf",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T22:40:22.508807",
+    "candidate_name": "Akhil resume.pdf",
+    "job_title": "Machine Learning Engineer",
+    "score": 20.0,
+    "jd_skills": [
+      "Python",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Model Deployment",
+      "MLOps",
+      "Docker",
+      "APIs",
+      "Data Pipelines"
+    ],
+    "resume_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Model Deployment",
+      "MLOps",
+      "Docker",
+      "APIs",
+      "Data Pipelines"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T22:42:44.117294",
+    "candidate_name": "Akhil resume.pdf",
+    "job_title": "Machine Learning Engineer",
+    "score": 20.0,
+    "jd_skills": [
+      "Python",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Model Deployment",
+      "MLOps",
+      "Docker",
+      "APIs",
+      "Data Pipelines"
+    ],
+    "resume_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Model Deployment",
+      "MLOps",
+      "Docker",
+      "APIs",
+      "Data Pipelines"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T22:44:55.222201",
+    "candidate_name": "Lade Akhil.pdf",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T22:45:01.286018",
+    "candidate_name": "Lade Akhil.pdf",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T22:50:15.106525",
+    "candidate_name": "S/0 RAJESHWAR RAO                                     :91-9392032795",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T23:05:48.675112",
+    "candidate_name": "Akhil Lade",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T23:08:04.194597",
+    "candidate_name": "Akhil Lade",
+    "job_title": "Data Analyst",
+    "score": 0.0,
+    "jd_skills": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Data Cleaning",
+      "Data Visualization",
+      "Reporting",
+      "Pivot Tables",
+      "Basic Statistics"
+    ],
+    "resume_skills": [],
+    "missing_skills": [
+      "Excel",
+      "SQL",
+      "Power BI",
+      "Tableau",
+      "Data Cleaning",
+      "Data Visualization",
+      "Reporting",
+      "Pivot Tables",
+      "Basic Statistics"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T23:22:50.411456",
+    "candidate_name": "Akhil Lade",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T23:37:37.831605",
+    "candidate_name": "Akhil Lade",
+    "job_title": "Business Analyst",
+    "score": 0.0,
+    "jd_skills": [
+      "Requirements Gathering",
+      "Process Mapping",
+      "SQL",
+      "Documentation",
+      "Stakeholder Communication",
+      "UML",
+      "User Stories",
+      "Gap Analysis"
+    ],
+    "resume_skills": [],
+    "missing_skills": [
+      "Requirements Gathering",
+      "Process Mapping",
+      "SQL",
+      "Documentation",
+      "Stakeholder Communication",
+      "UML",
+      "User Stories",
+      "Gap Analysis"
+    ]
+  },
+  {
+    "timestamp": "2025-12-03T23:43:29.589985",
+    "candidate_name": "Akhil Lade",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2025-12-04T01:12:12.193448",
+    "candidate_name": "Akhil Lade",
+    "job_title": "Machine Learning Engineer",
+    "score": 20.0,
+    "jd_skills": [
+      "Python",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Model Deployment",
+      "MLOps",
+      "Docker",
+      "APIs",
+      "Data Pipelines"
+    ],
+    "resume_skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "missing_skills": [
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Model Deployment",
+      "MLOps",
+      "Docker",
+      "APIs",
+      "Data Pipelines"
+    ]
+  },
+  {
+    "timestamp": "2025-12-27T12:13:23.579101",
+    "candidate_name": "LADE AKHIL",
+    "job_title": "Software Engineer",
+    "score": 33.33,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java",
+      "Git",
+      "SQL"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "REST APIs",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  },
+  {
+    "timestamp": "2026-01-02T17:10:53.189313",
+    "candidate_name": "L.Akhil",
+    "job_title": "Software Engineer",
+    "score": 16.67,
+    "jd_skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ],
+    "resume_skills": [
+      "Python",
+      "Java"
+    ],
+    "missing_skills": [
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Object Oriented Programming",
+      "Git",
+      "REST APIs",
+      "SQL",
+      "Unit Testing",
+      "Agile",
+      "Debugging"
+    ]
+  }
+]
