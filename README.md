@@ -6,4 +6,4 @@ cd RESUME SHORTLISTING
 
 pip install -r requirements.txt
 
-streamlit run akhilapp.py
+streamlit run app.py
