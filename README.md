@@ -1,4 +1,4 @@
-git clone https:
+git clone https://github.com/akill10/Resume-shortlisting-system.git
 
 cd Resume-shortlisting
 
